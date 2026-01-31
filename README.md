@@ -1,3 +1,3 @@
 pip install requirements.txt
 
-python3 apptts.py tetradotoxinaoficial
+python3 app.py tetradotoxinaoficial
